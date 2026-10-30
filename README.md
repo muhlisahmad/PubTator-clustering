@@ -3,7 +3,7 @@
 ## Clone Repository
 The section below describes how to clone the repository to perform the clustering algorithm. To install the dependencies for clustering, you need to clone the repository by running the command as follows:
 ```sh
-$ git clone https://github.com/XisUndefined/PubTator-clustering.git
+$ git clone https://github.com/muhlisahmad/PubTator-clustering.git
 $ cd PubTator-clustering
 ```
 
